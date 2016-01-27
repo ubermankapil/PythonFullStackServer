@@ -4,6 +4,7 @@ Data Driven application to perform CRUD functionalities, used python BaseHTTPSer
 1. Go to your terminal.
 2. $git clone https://github.com/ubermankapil/PythonFullStackServer.git
 3. $cd /PythonFullStackServer
+4. $python lotsofmenus.py
 4. $python database_setup.py
 5. $python webserver.py
-6. Open your default browser and go the following url localhost:8080
+6. Open your default browser and go the following url localhost:8080/restaurants
